@@ -24,6 +24,11 @@ td {
   border-bottom: 1px solid #ddd;
   font-family: Arial
 }
+div {
+  background-color: blue;
+  text-align: right;
+}
+
 
 tr:nth-child(odd) {
   background-color: #f2f2f2;
